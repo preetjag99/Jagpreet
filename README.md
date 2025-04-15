@@ -1,6 +1,6 @@
-**Hi there, I'm Jagpreet Singh 👋
+Hi there, I'm Jagpreet Singh 👋
 
-**
+
 About Me
 
 I'm a Data Scientist passionate about solving complex problems through advanced analytics and MLOps practices. I leverage cutting-edge technologies to deliver impactful insights and optimize data workflows. With experience across various industries, I focus on building scalable solutions that drive business value through data-driven decision making.
